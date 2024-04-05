@@ -5,10 +5,10 @@ My name is Ulaş My homework for IE360 will be available in this page.
 ### Homework 1
 
 
-[HTML File](https://github.com/UlasDiyarOnder/spring24-UlasDiyarOnder/blob/main/IE_360_HW1_2020402069/hw1_360.html)
-[R Code](https://github.com/UlasDiyarOnder/spring24-UlasDiyarOnder/blob/main/hw1_360.Rmd)
-[PDF of HTML](https://github.com/UlasDiyarOnder/spring24-UlasDiyarOnder/blob/main/IE_360_HW1_2020402069/IE_360.pdf)
-[Excel](https://github.com/UlasDiyarOnder/spring24-UlasDiyarOnder/tree/main/IE_360_HW1_2020402069)
+[First Homework HTML File](https://github.com/UlasDiyarOnder/spring24-UlasDiyarOnder/blob/main/IE_360_HW1_2020402069/hw1_360.html)
+[First Homework R Code](https://github.com/UlasDiyarOnder/spring24-UlasDiyarOnder/blob/main/hw1_360.Rmd)
+[First Homework PDF](https://github.com/UlasDiyarOnder/spring24-UlasDiyarOnder/blob/main/IE_360_HW1_2020402069/IE_360.pdf)
+[First Homework Data](https://github.com/UlasDiyarOnder/spring24-UlasDiyarOnder/tree/main/IE_360_HW1_2020402069)
 
 ### Jekyll Themes
 
