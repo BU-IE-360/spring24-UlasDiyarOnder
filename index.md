@@ -1,31 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+My name is Ulaş My homework for IE360 will be available in this page. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Homework 1
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[HTML File](https://github.com/UlasDiyarOnder/spring24-UlasDiyarOnder/blob/main/IE_360_HW1_2020402069/hw1_360.html)
+[R Code](https://github.com/UlasDiyarOnder/spring24-UlasDiyarOnder/blob/main/hw1_360.Rmd)
+[PDF of HTML](https://github.com/UlasDiyarOnder/spring24-UlasDiyarOnder/blob/main/IE_360_HW1_2020402069/IE_360.pdf)
+[Excel](https://github.com/UlasDiyarOnder/spring24-UlasDiyarOnder/tree/main/IE_360_HW1_2020402069)
 
-```markdown
-Syntax highlighted code block
+### Jekyll Themes
 
-# Header 1
-## Header 2
-### Header 3
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-- Bulleted
-- List
+### Support or Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
